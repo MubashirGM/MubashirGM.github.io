@@ -9,3 +9,5 @@ I believe in continuous learning and professional development to stay on top of 
 When I'm not crunching numbers or coding, I enjoy going to the gym and playing different sports.
 
 Feel free to explore my portfolio to see some of the projects I've worked on!
+
+{% include projects.html %}
