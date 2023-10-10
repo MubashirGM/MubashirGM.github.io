@@ -1,0 +1,16 @@
+/* styles.css */
+.body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.section {
+    padding: 20px;
+    margin: 10px;
+}
+.projects {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
