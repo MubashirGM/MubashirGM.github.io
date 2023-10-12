@@ -5,17 +5,20 @@ permalink: /projects/
 ---
 # MY DATA SCIENCE PROJECTS
 
+
 ### Predicting NBA Game Outcomes Using Advanced ML Techniques
 <div class="project-image">
-   ![Image NBA project](/images/NBA_project_image.png)
+   <img src="/images/NBA_project_image.png" alt="Image NBA project">
 </div>
 <div class="project-description">
    My NBA based DS project
-  - Engineered an innovative predictive model by integrating advanced dynamic and contextual features from diverse datasets to reflect the intricacies of modern NBA games accurately.
-  - Applied and optimized various machine learning algorithms including SVR, KNN, and ensemble methods, reflecting a comprehensive understanding of practical algorithm application.
-  - Achieved enhanced predictive precision and reliability, reflected by a refined validation RMSE of 7.90 and a bolstered R2 Score of 0.48, closely competing with bookmaker point spreads.
-  - Effectively synthesized and communicated complex findings, highlighting the significant influence of contextual elements like team chemistry and injuries on predictive accuracy, and identified avenues for future enhancements using real-time data and deep learning techniques.
+
+   - Engineered an innovative predictive model by integrating advanced dynamic and contextual features from diverse datasets to reflect the intricacies of modern NBA games accurately.
+   - Applied and optimized various machine learning algorithms including SVR, KNN, and ensemble methods, reflecting a comprehensive understanding of practical algorithm application.
+   - Achieved enhanced predictive precision and reliability, reflected by a refined validation RMSE of 7.90 and a bolstered R2 Score of 0.48, closely competing with bookmaker point spreads.
+   - Effectively synthesized and communicated complex findings, highlighting the significant influence of contextual elements like team chemistry and injuries on predictive accuracy, and identified avenues for future enhancements using real-time data and deep learning techniques.
 </div>
+
 
 
 ### Predicting NBA Game Outcomes Using Advanced ML Techniques
