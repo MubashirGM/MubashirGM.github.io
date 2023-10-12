@@ -11,12 +11,15 @@ Description of project
 -	Applied and optimized various machine learning algorithms including SVR, KNN, and ensemble methods, reflecting a comprehensive understanding of practical algorithm application.
 -	Achieved enhanced predictive precision and reliability, reflected by a refined validation RMSE of 7.90 and a bolstered R2 Score of 0.48, closely competing with bookmaker point spreads.
 -	Effectively synthesized and communicated complex findings, highlighting the significant influence of contextual elements like team chemistry and injuries on predictive accuracy, and identified avenues for future enhancements using real-time data and deep learning techniques.
+![Image Alt Text](/images/NBA_project_image.png)
+
 
 ### Development and Optimisation of Unmanned Aerial Vehicle (UAV) for humanitarian aid
 Description of project
 -	Engineered algorithms to process and analyze data from integrated sensors like accelerometers, gyrometers, and altimeters during UAV flight tests.
 -	Combined Finite Element Analysis (FEA) & Computational Fluid Dynamics (CFD) with machine learning models to optimize structural and aerodynamic parameters, enhancing performance.
 -	Developed and refined optimization algorithms to maximize aid payload, meticulously considering multiple constraints and efficiently allocating resources.
+![Image Alt Text](/images/UAV_project_image.png)
 
 ### Strategic Business Intelligence Report for Mulberry plc
 Description of project
