@@ -5,3 +5,7 @@ description: Bookmark this to keep an eye on my project updates!
 header_pages:
   - index.md
   - projects.md
+
+sass:
+  sass_dir: _sass
+  style: compressed
